@@ -4,7 +4,7 @@
 ### Requirements
 
 + node-express
-+ docker
++ Docker
 + Docker Registry
 
 ### Node-Express
