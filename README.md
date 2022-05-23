@@ -12,8 +12,8 @@
 
 ** _NOTE : All installations mentioned below are done on worker node02._ **
 
-`vagrant up` --> all VMs are started.<br>
-`vagrant status`--> check the status of VMs<br> 
+`vagrant up` --> all Clusters are started.<br>
+`vagrant status`--> check the status of Clusters<br> 
 `vagrant ssh "node name"`-->node by ssh.<br>
 
 ![vagrant](https://user-images.githubusercontent.com/42733209/169891496-9482b253-401b-4c9e-9487-96e804f5e1da.png)
